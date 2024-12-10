@@ -1,3 +1,4 @@
+-- Las mejores notas de cada estudiante:
 SELECT 
     g.grades_students_id AS student_id,
     MAX(g.grade) AS best_grade

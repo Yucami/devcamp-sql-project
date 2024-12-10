@@ -1,3 +1,4 @@
+-- Encontrar qué estudiante y profesor tienen más cursos en común:
 SELECT 
     c.courses_id AS course_id,
     c.courses_name AS course_name,

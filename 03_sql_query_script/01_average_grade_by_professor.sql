@@ -1,3 +1,4 @@
+-- La nota media que otorga cada profesor:
 SELECT 
     c.courses_professors_id AS professor_id,
     p.professors_name,

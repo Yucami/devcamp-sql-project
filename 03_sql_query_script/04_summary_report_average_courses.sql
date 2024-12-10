@@ -1,3 +1,6 @@
+-- Crear un informe resumido de los cursos y sus calificaciones promedio, 
+-- ordenados desde el curso más desafiante 
+-- (curso con la calificación promedio más baja) hasta el curso más fácil.
 SELECT 
     c.courses_id AS course_id,
     c.courses_name AS course_name,

@@ -1,3 +1,5 @@
+-- Ordenar a los estudiantes por los cursos en los que están inscritos.
+
 -- consulta con los nombres de los cursos:
 SELECT 
     s.students_id AS student_id,
